@@ -1,0 +1,1 @@
+Cachorros adoram correr atrás de objetos, mas nem sempre eles conseguem pegá-los. Nesse interativo, qual a menor distância que o cachorro consegue ficar do balão?
